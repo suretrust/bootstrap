@@ -8,3 +8,18 @@ svg {
     fill: white;
     height: 60px;
 }
+
+#search {
+    box-shadow: none;
+    border: none;
+    background: #ffffff url("../img/search.svg") 80% 65% no-repeat;
+}
+
+#search:focus {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+    background-position-x: 95%;
+}
