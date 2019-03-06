@@ -3,3 +3,8 @@
         max-width: 1300px;
     }
 }
+
+svg {
+    fill: white;
+    height: 60px;
+}
