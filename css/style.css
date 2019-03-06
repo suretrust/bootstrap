@@ -4,6 +4,10 @@
     }
 }
 
+.bg-danger {
+    background-color: #f72210 !important;
+}
+
 svg {
     fill: white;
     height: 60px;
