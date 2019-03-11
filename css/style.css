@@ -60,6 +60,11 @@ svg {
     line-height: 60px;
 }
 
+footer svg {
+    fill: #f72210;
+    height: 35px;
+}
+
 /************ search bar  **************/
 
 #search {
@@ -133,4 +138,10 @@ svg {
         overflow: auto;
     }
     
+ }
+
+ footer small {
+    height: 35px;
+    display: flex;
+    align-items: flex-end;
  }
