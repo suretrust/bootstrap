@@ -39,6 +39,11 @@ p {
     color: #555;
 }
 
+h5.latest-header {
+    font: bold 16px "Roboto Condensed", sans-serif;
+    color: #000 !important;
+}
+
 /************ correct red used by newsweek ***********/
 
 .bg-danger {
