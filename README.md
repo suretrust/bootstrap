@@ -7,4 +7,4 @@ This is a HTML/CSS project, as part of the Microverse course. In this project, w
 2. CSS
 3. Bootstrap
 
-This project is live at: (link coming soon)
+This project is live at: https://suretrust.github.io/bootstrap/
